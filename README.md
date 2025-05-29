@@ -1,7 +1,7 @@
 # MongoDB_Basic
 bash
 ```
->> mongosh "mongodb+srv://cluster0.yyyt7i0.mongodb.net/" --apiVersion 1 --username Midhilesh
+>> mongosh "mongodb+srv://cluster0.yyyt7i0.mongodb.net/" --apiVersion 1 --username Akhilesh
 Enter password: ****************
 Current Mongosh Log ID: 68373e2cc6c9a40e996c4bcf
 Connecting to:          mongodb+srv://<credentials>@cluster0.yyyt7i0.mongodb.net/?appName=mongosh+2.5.1
